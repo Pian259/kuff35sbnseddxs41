@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "telegram_id": 1443936182,
+      "username": "Piy [Dev]",
+      "expire": "permanent"
+    },
+    {
+      "telegram_id": 987654321,
+      "username": "userlain",
+      "expire": "2026-12-31"
+    }
+  ]
+}
